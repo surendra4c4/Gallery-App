@@ -1,0 +1,18 @@
+/* Write your code here. */
+.button {
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+}
+
+.thumbnail-image {
+  opacity: 0.5;
+}
+
+.opacity-class {
+  opacity: 1;
+}
+
+.list-item {
+  list-style-type: none;
+}
